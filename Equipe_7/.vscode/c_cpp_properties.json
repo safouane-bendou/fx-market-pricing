@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/Cellar/gcc/10.2.0/include/c++/10.2.0/tr1",
+                "/usr/local/include",
+                "/Users/macbookpro/Desktop/pnl",
+                "${default}",
+                "/usr/local/Cellar/libxls/1.6.2/include/libxls",
+                "/Users/macbookpro/Desktop/pnl/src/include",
+                "/Users/macbookpro/Desktop/pnl/build/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/local/bin/gcc-10",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "macos-gcc-x64"
+        }
+    ],
+    "version": 4
+}
